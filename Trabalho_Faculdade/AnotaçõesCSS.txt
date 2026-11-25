@@ -1,0 +1,5 @@
+Azure Mist: #E2F5F3;
+Icy Blue: #A4CBE3;
+Strong Cyan: #4DD4CD;
+Twilight Indigo: #333C77;
+Ink Black: #001B29;
